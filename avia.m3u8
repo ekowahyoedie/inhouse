@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+#EXTINF:-1
 https://github.com/ekowahyoedie/inhouse/raw/main/Avia1.mp4
