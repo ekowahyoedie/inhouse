@@ -1,3 +1,8 @@
 #EXTM3U
-#EXTINF:-1
-https://raw.githubusercontent.com/ekowahyoedie/inhouse/main/Avia.ts
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:40
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:40.000000,
+Avia.ts
+#EXT-X-ENDLIST
+
