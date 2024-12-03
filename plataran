@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+#EXTINF:-1 tvg-id="" tvg-name="Plataran Resort Canggu", Plataran
 https://raw.githubusercontent.com/ekowahyoedie/inhouse/main/plataran.mp4
 
